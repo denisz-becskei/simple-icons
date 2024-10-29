@@ -11048,6 +11048,11 @@
             "source": "https://www.stellantis.com/en/brands/opel"
         },
         {
+            "title": "Open3D",
+            "hex": "000000",
+            "source": "https://github.com/isl-org/Open3D/blob/2ae042aa74ad3917afd891e36798ffe687513662/cpp/apps/Open3DViewer/icon.svg"
+        },
+        {
             "title": "Open Access",
             "hex": "F68212",
             "source": "https://commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_white.svg"
